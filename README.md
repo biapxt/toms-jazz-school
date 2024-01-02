@@ -19,7 +19,6 @@ Página de login com funcionalidade de light e dark mode. 😀 <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
