@@ -1,13 +1,4 @@
 
-
-<p align="center">
-Página de login com funcionalidade de light e dark mode. 😀 <br/>
-
-
-
-
-
-
 <br>
 
 <p align="center">
