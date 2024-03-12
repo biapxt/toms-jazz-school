@@ -1,4 +1,4 @@
-<h1 align="center"> Login Page</h1>
+
 
 <p align="center">
 Página de login com funcionalidade de light e dark mode. 😀 <br/>
